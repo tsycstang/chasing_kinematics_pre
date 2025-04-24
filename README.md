@@ -1,12 +1,12 @@
 # chasing_kinematics_pre
 
-**中文说明见 README_zh.md**
+**中文说明见 `README_zh.md`**
 
 This repository contains the simulation code of multi-points chasing kinematics.
 
 ## Problem Description
 
-**This repository discusses Problem 2-10 in Chapter 2 Kinematics from Textbook for *High School Physics Olympiad: Mechanics (2nd ed.)* by Cheng Jiafu.**
+**This repository discusses Problem 2-10 in Chapter 2 Kinematics from *Textbook for High School Physics Olympiad: Mechanics (2nd ed.)* by Cheng Jiafu.**
 
 ![Problem](problem_img.jpeg)
 
@@ -24,6 +24,13 @@ Questions:
 
 2) Particle $A$ moves along a curved path. What is the radius of curvature of this path at the initial moment?
 
+## Instructions
+
+For running the simulation examples, please refer to the `5_points` and `6_points` folders.
+
+For the interactive plot of generic cases (which only the angle between the tangent and radial axis is defined as the parameter), please refer to the `generic_case` folder.
+
+`main.py` is purely decorative for now.
 
 ## Requirements
 
