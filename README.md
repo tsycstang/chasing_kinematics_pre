@@ -8,6 +8,8 @@ This repository contains the simulation code of multi-points chasing kinematics.
 
 **This repository discusses Problem 2-10 in Chapter 2 Kinematics from Textbook for *High School Physics Olympiad: Mechanics (2nd ed.)* by Cheng Jiafu.**
 
+![Problem](problem_img.jpeg)
+
 As shown in the figure, five particles $A$, $B$, $C$, $D$, and $E$ are located at the five equally spaced positions on a circle of radius $R$ at a certain moment. Assume that each particle moves at a constant speed $v$, and during the motion:
 
 - Particle $A$ always points toward particle $C$,
