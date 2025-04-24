@@ -36,8 +36,7 @@ For the interactive plot of generic cases (which only the angle between the tang
 
 1. Python 3
 2. Numpy
-3. Scipy
-4. Matplotlib
+3. Matplotlib
 
 We also have MATLAB code for the generic case simulation part.
 

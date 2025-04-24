@@ -38,8 +38,7 @@
 
 1. Python 3
 2. Numpy
-3. Scipy
-4. Matplotlib
+3. Matplotlib
 
 在通用情况下的轨迹模拟我们也提供了MATLAB代码。
 
