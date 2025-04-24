@@ -40,6 +40,12 @@ For the interactive plot of generic cases (which only the angle between the tang
 
 We also have MATLAB code for the generic case simulation part.
 
+## Repository Links
+
+[GitHub: tsycstang/chasing_kinematics_pre](https://github.com/tsycstang/chasing_kinematics_pre)
+
+[Gitee: Jonathan Toh/chasing_kinematics_pre](https://gitee.com/tech-navigator-jonathan-toh/chasing_kinematics_pre)
+
 ## License
 
 **MIT**

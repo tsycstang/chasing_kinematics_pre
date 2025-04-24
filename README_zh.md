@@ -42,6 +42,12 @@
 
 在通用情况下的轨迹模拟我们也提供了MATLAB代码。
 
+## 代码仓库地址
+
+[GitHub: tsycstang/chasing_kinematics_pre](https://github.com/tsycstang/chasing_kinematics_pre)
+
+[Gitee: Jonathan Toh/chasing_kinematics_pre](https://gitee.com/tech-navigator-jonathan-toh/chasing_kinematics_pre)
+
 ## 许可证
 
 **MIT**
